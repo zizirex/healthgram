@@ -1,0 +1,35 @@
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+}
+.block{
+    display: block;
+}
+
+.loginjumbo{
+    background-color: #f44336;
+}
+
+.widthcard{
+    /* width: 550px; */
+    margin: 0px 20px 0px;
+    padding: 10px;
+    
+}
+
+@media(min-width:992px){
+.br-1 {
+    border-right: 1px solid rgba(0, 0, 0, 0.125);
+
+}
+}
+
+@media(max-width:992px){
+.br-1 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+}

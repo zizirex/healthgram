@@ -1,0 +1,15 @@
+[
+  {
+    "id":1,
+    "FullName": "Kyle B Robinson",
+    "Nickname": "Kyle",
+    "Birthday": "March, 25th 1992",
+    "Gender": "Male",
+    "Address": "3464 Paradise Crecent",
+    "City": "Hauterive",
+    "State": "Quebec",
+    "Contact": "418-568-2691",
+    "Email": "kylerb@hotmail.com",
+    "Img": "./media/assets/prof.jpg"
+  }
+]
